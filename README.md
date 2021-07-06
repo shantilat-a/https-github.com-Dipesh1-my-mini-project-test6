@@ -1,2 +1,2 @@
 # https-github.com-Dipesh1-my-mini-project-test6
-my ms mini project
+my.app.id=2
